@@ -3,7 +3,7 @@ package com.example.dagger_exercise;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
-import android.app.Activity;
+
 
 
 import javax.inject.Inject;
